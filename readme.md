@@ -10,7 +10,7 @@
 - You can build the same project doing the course and coding along with it. Just hit the link below, buy the course and have fun!
 - https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/
 
-  > Course by: Academind
+  > Course by: Academind\
   > https://academind.com/
 
 # Topics covered in the course
